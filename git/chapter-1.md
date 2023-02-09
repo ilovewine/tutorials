@@ -10,6 +10,8 @@ Git is an open source distributed version control system. It allows you to creat
 
 In a git repository there must be at least one branch from which the branch tree can be expanded. It is considered to be a main branch and is usually called _master_ or _main_. 
 
+For detailed information about git, it's history and how it works you are encouraged to read the [Git Book](https://git-scm.com/book/en/v2).
+
 ## Git initialization
 
 In your project directory type:
