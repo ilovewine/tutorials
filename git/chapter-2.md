@@ -27,3 +27,4 @@ _NOTE: Make sure to do the tasks listed in [Chapter 1](chapter-1.md)._
 1. After adding the files to your project, add them to the _staged_ database with the `git add .` command.
 2. Commit the changes as described above.
 3. Make sure everything is commited by using `git status` and `git log`.
+ 
